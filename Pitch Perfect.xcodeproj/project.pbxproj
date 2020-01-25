@@ -101,7 +101,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1110;
 				LastUpgradeCheck = 1110;
-				ORGANIZATIONNAME = "Mohamed Canaria";
+				ORGANIZATIONNAME = "Mohamed Mostafa Fawzi";
 				TargetAttributes = {
 					6052AE70238B675E00AC6163 = {
 						CreatedOnToolsVersion = 11.1;
@@ -299,7 +299,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Mohamed-Canaria.Pitch-Perfect";
+				PRODUCT_BUNDLE_IDENTIFIER = "MohamedMostafaFawzi.Pitch-Perfect";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -317,7 +317,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Mohamed-Canaria.Pitch-Perfect";
+				PRODUCT_BUNDLE_IDENTIFIER = "MohamedMostafaFawzi.Pitch-Perfect";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
